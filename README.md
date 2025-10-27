@@ -16,7 +16,7 @@
 ---
 
 ### 🌐 lang
-🇷🇺 Русский (native)
+🇷🇺 Русский (native) <br>
 🇬🇧 Английский — idk, maybe A2 (reading documentation, basic communication)  
 
 ---
