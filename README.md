@@ -6,13 +6,12 @@
 
 ---
 
-### 📫 write
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff)](https://t.me/pozich)
+### 📫 write [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff)](https://t.me/pozich)
 
 ---
 
 ### ⚙️ skills
-`Python` • `С++` • `Bash` • `Linux` • `Git` 
+`Python` • `С++` • `Bash` • `Linux` • `Git` • `HTML, CSS` 
 
 ---
 
@@ -23,5 +22,5 @@
 ---
 
 ### 🧩 me
-i use arch btw (3 month ago);
+i use arch btw (3 month ago), obsidian;
 i liked milfs, pinterest and tetris :) 
