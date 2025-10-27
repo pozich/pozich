@@ -8,8 +8,6 @@
 
 ### 📫 write
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff)](https://t.me/pozich)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/pzch)
-[![Email](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=fff)](mailto:you@example.com)
 
 ---
 
