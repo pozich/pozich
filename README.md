@@ -23,4 +23,4 @@
 
 ### 🧩 me
 i use arch btw (3 month ago), obsidian; <br>
-i liked milfs, pinterest, pyrokinesis and tetris :) 
+i like milfs, pinterest, pyrokinesis and tetris :) 
