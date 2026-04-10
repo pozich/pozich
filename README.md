@@ -11,7 +11,7 @@
 ---
 
 ### ⚙️ skills
-`Python` • `С++` • `Bash` • `Linux` • `Git` • `HTML, CSS` 
+`Python` • `Bash` • `Linux` • `Git` • `React` • `Docker`
 
 ---
 
@@ -22,5 +22,4 @@
 ---
 
 ### 🧩 me
-i use arch btw (3 month ago), obsidian; <br>
-i like pinterest, pyrokinesis and tetris :) 
+i use arch btw!1!!11!!!
